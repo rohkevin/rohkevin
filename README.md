@@ -19,7 +19,10 @@ Here's a few things I code with
 </p>
 
 
-Find me at:
+Check me out!
+
+<a href="https://kevinroh.ca" target="_blank"><img src="https://img-premium.flaticon.com/png/512/2922/2922688.png?token=exp=1622266437~hmac=39e163543aece7b1409b6328534c0d27" width="15"/> More about me 😎 </a>
+<br/>
 
 <a href="https://linkedin.com/in/kevinroh" target="_blank"><img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622264588~hmac=69c93e5fbf5ab8d1012aaaa28c9f5909" width="15"/> See my past accomplishments 🚀 </a>
 <br/>
