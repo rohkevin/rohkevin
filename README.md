@@ -14,8 +14,8 @@ Here's a few things I code with
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F7A011?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="ExpresssJS" src="https://img.shields.io/badge/-Express-EFEFEF?style=flat-square&logo=express&logoColor=black" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="ExpresssJS" src="https://img.shields.io/badge/-ExpressJS-EFEFEF?style=flat-square&logo=express&logoColor=black" />
 </p>
 
 
