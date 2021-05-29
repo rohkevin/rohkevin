@@ -6,16 +6,25 @@
 <a href="https://open.spotify.com/user/12147067787?si=d02a8298b2e54cbf">
   <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+<br/>
 
 ### Hello there!
+I'm [Kevin Roh](https://kevinroh.ca), a self-taught Full Stack developer from Toronto 🇨🇦
+
 
 ---
 
 🧰 Toolbox
-<img src="" alt="" 
 
 ---
 
+---
+
+📈 My Github Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohkevin&show_icons=true&theme=gotham" alt="Kevin's Github Stats" />
+
+---
 
 <!--
 **rohkevin/rohkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
