@@ -1,28 +1,25 @@
-# Kevin Roh
+# Hello there! 🌞
 
-<a href="https://www.linkedin.com/in/kevinroh/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://open.spotify.com/user/12147067787?si=d02a8298b2e54cbf">
-  <img align="left" alt="Abhishek's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+I'm [Kevin Roh](https://kevinroh.ca), a Full Stack developer from Toronto 🇨🇦
+
+Here's a few things I code with
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+</p>
+
+Please reach out, I love talking about things I'm not used to talking about!!
+Find me at:
+
+<a href="https://www.instagram.com/roh.kev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="10"/>@roh.kev</a>
 <br/>
 
-### Hello there!
-I'm [Kevin Roh](https://kevinroh.ca), a self-taught Full Stack developer from Toronto 🇨🇦
-
-
----
-
-🧰 Toolbox
-
----
-
-📈 My Github Stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rohkevin&show_icons=true&theme=gotham" alt="Kevin's Github Stats" />
-
----
 
 <!--
 **rohkevin/rohkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
