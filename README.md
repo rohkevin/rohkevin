@@ -18,11 +18,9 @@ I'm [Kevin Roh](https://kevinroh.ca), a self-taught Full Stack developer from To
 
 ---
 
----
-
 📈 My Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rohkevin&show_icons=true&theme=gotham" alt="Kevin's Github Stats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=rohkevin&show_icons=true&theme=gotham" alt="Kevin's Github Stats" />
 
 ---
 
