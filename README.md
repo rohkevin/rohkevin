@@ -24,8 +24,8 @@ Find me at:
 <a href="https://linkedin.com/in/kevinroh" target="_blank"><img src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1622264588~hmac=69c93e5fbf5ab8d1012aaaa28c9f5909" width="15"/> See my past accomplishments 🚀 </a>
 <br/>
 
-<a href="https://www.instagram.com/roh.kev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="15"/> @roh.kev</a>
+<a href="https://www.instagram.com/roh.kev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1024px-Instagram_logo_2016.svg.png" width="15"/> @roh.kev </a>
 <br/>
 
-<a href="https://open.spotify.com/user/12147067787?si=8938b10c54b049c9" target="_blank"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="15"/>Share 🔥 tracks </a>
+<a href="https://open.spotify.com/user/12147067787?si=8938b10c54b049c9" target="_blank"><img src="https://www.freepnglogos.com/uploads/spotify-logo-png/file-spotify-logo-png-4.png" width="15"/> Share tracks 🔥 </a>
 <br/>
