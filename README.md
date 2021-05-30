@@ -9,8 +9,8 @@ Here's a few things I code with
   <img alt="css" src="https://img.shields.io/badge/-CSS3-2B97CC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F7A011?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1F?style=flat-square&logo=javascript&logoColor=white" />
