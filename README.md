@@ -4,7 +4,7 @@ I'm [Kevin Roh](https://kevinroh.ca), a Full Stack developer from Toronto ðŸ‡¨ðŸ
 
 Here's a few things I code with
 <p>
-  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-31C8C9?style=flat-square&logo=netlify&logoColor=white" />
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-2B97CC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
@@ -14,6 +14,7 @@ Here's a few things I code with
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/-Firebase-F7A011?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1F?style=flat-square&logo=javascript&logoColor=white" />
+    <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-31C8C9?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="ExpresssJS" src="https://img.shields.io/badge/-ExpressJS-EFEFEF?style=flat-square&logo=express&logoColor=black" />
