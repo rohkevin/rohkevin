@@ -4,6 +4,7 @@ I'm [Kevin Roh](https://kevinroh.ca), a Full Stack developer from Toronto ðŸ‡¨ðŸ
 
 Here's a few things I code with
 <p>
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-31C8C9?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-2B97CC?style=flat-square&logo=css3&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
