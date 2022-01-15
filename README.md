@@ -1,13 +1,20 @@
 # Hello there! 🌞
 
-I'm [Kevin Roh](https://kevinroh.ca), a Full Stack developer from Toronto 🇨🇦
+I'm [Kevin Roh](https://kevinroh.ca), a full stack software engineer from Toronto 🇨🇦
+
+Currently [@Varicent](https://www.varicent.com/) as a software engineer
+
+<br/>
 
 Here's a few things I code with
 <p>
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-31C8C9?style=flat-square&logo=netlify&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-2B97CC?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="dotnet" src="https://img.shields.io/badge/-.NET-6F14E7?style=flat-square&logo=dotnet&logoColor=white" />
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+  <img alt="c-sharp" src="https://img.shields.io/badge/-C%23-a177dc?style=flat-square&logo=c-sharp&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
