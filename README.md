@@ -19,7 +19,7 @@ TypeScript, JavaScript, C#, SQL, CSS, HTML
 
 **Frameworks & Libraries** 
 <br/>
-ReactJS, .NET, ExpressJS, NodeJS
+React, .NET, ExpressJS, NodeJS
 <!-- <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <img alt="dotnet" src="https://img.shields.io/badge/-.NET-6F14E7?style=flat-square&logo=dotnet&logoColor=white" />
 <img alt="ExpresssJS" src="https://img.shields.io/badge/-ExpressJS-EFEFEF?style=flat-square&logo=express&logoColor=black" />
